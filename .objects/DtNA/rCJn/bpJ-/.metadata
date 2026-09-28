@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome currency convertor - Google Search",
+  "Type": "Screen",
+  "Id": "bpJ-o2SyO0WA99fDA_lRDA",
+  "Reference": "AESrRvDSqU2q3iSi2VgGog/bpJ-o2SyO0WA99fDA_lRDA",
+  "ParentRef": "AESrRvDSqU2q3iSi2VgGog/rCJntqhAV0-gCRXl14WSYg",
+  "Created": "2026-09-22T08:25:10.1029882Z",
+  "Updated": "2026-09-22T08:25:10.1029882Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.7.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

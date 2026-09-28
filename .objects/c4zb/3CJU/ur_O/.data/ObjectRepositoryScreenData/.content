@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryScreenData ContentHash="-1ZJOr6amUG1uOLKav4UWw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryScreenData.Data>
+    <TargetApp x:Key="TargetApp" Area="-9, -9, 1938, 1038" BrowserType="Chrome" IconBase64="iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAB7SURBVDhPY2BgYGD4n8SQ8D+J4dr/JIb/RGKQ2gSQXphmdAXE4gSQAaTYjI6vgQxAFyQJDxYDOh0wJHBikNqNDXA9CANu7IdIoGtAxzDNULWoXgAJggCIhmGYYpgFID6Si7GHAUwDMsbhTewGkIAHhwEUJ2XKMhOl2RkAzSFlvVeNjg0AAAAASUVORK5CYII=" Selector="&lt;html app='chrome.exe' title='Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in' /&gt;" Url="https://www.amazon.in/?&amp;tag=googhydrabk1-21&amp;ref=pd_sl_5szpgfto9i_e&amp;adgrpid=155259813593&amp;hvpone=&amp;hvptwo=&amp;hvadid=815461296140&amp;hvpos=&amp;hvnetw=g&amp;hvrand=12271315025783625462&amp;hvqmt=e&amp;hvdev=c&amp;hvdvcmdl=&amp;hvlocint=&amp;hvlocphy=9300141&amp;hvtargid=kwd-64107830&amp;hydadcr=14452_2462829&amp;mcid=e9c68a2d0f333bcaacd29ec00843c329&amp;hvocijid=12271315025783625462--&amp;hvexpln=nav&amp;gad_source=1" Version="V3">
+      <imageRef attrName="InformativeScreenshot" originalValue="69f5be42e54b514f485f4754f056066d.jpg" xmlns="">0k4yNQlhXB0KaJdzFdtcMLg</imageRef>
+    </TargetApp>
+    <NInteractionMode x:Key="InteractionMode">DebuggerApi</NInteractionMode>
+  </ObjectRepositoryScreenData.Data>
+</ObjectRepositoryScreenData>

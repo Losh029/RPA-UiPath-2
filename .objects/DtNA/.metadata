@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Chrome currency convertor - Google Search",
+  "Type": "App",
+  "Id": "DtNAM1iuu02NfMl6dslLsA",
+  "Reference": "AESrRvDSqU2q3iSi2VgGog/DtNAM1iuu02NfMl6dslLsA",
+  "Created": "2026-09-22T08:25:09.9531071Z",
+  "Updated": "2026-09-22T08:25:09.9531071Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.7.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

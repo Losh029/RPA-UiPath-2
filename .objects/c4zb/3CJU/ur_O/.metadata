@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome Buy Electronic Products Online with Up",
+  "Type": "Screen",
+  "Id": "ur_Ou9WvhEORwt_8-9hPbQ",
+  "Reference": "AESrRvDSqU2q3iSi2VgGog/ur_Ou9WvhEORwt_8-9hPbQ",
+  "ParentRef": "AESrRvDSqU2q3iSi2VgGog/3CJUDUtKWE6ir8ofLHz_gQ",
+  "Created": "2026-09-22T04:33:04.4677149Z",
+  "Updated": "2026-09-22T04:33:04.4677149Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.7.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
